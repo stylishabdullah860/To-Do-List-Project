@@ -10,7 +10,7 @@ This is a simple to-do list web application built using HTML, CSS, and JavaScrip
 - Also saved the data in local storage so when browser loads it displays past data also  or when opened new time in any browser.
 
 ## Usage
-1. Clone the repository: `git clone https://github.com/your-username/todolist.git`
+1. Clone the repository: `https://github.com/stylishabdullah860/To-Do-List-Project`
 2. Open `index.html` in your browser.
 
 ## Screenshots
